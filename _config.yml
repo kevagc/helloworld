@@ -17,8 +17,8 @@ title: JUMPLEAP
 email: kevin@jumpleap.net
 description: >- # this means to ignore newlines until "baseurl:"
   Jumpleap is a digital agency that offers economical brand presence solutions for small & medium businesses
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kevagc.github.io/helloworld/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/helloworld" # the subpath of your site, e.g. /blog
+url: "https://kevagc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kevagc
 github_username:  kevagc
 
